@@ -2,18 +2,17 @@
 
 ### 💫 About Me
 
-I’m a developer interested in **AI/ML**, **system optimization**, and building **practical products for real users**.
-I enjoy combining solid engineering with **clean, intuitive interfaces**.
+Developer focused on **AI/ML**, **system optimization**, and **practical products**.
 
-* 🎂 **Born:** 2004
-* 🚀 **Learning Style:** Project-driven (learn by building)
-* 🎯 **Goal:** Build an **AI Companion System** to support everyday work and creativity
+![Born](https://img.shields.io/badge/Born-2004-3b82f6?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Learning-Project--Driven-22c55e?style=for-the-badge)
+![Goal](https://img.shields.io/badge/Goal-AI%20Companion%20System-8b5cf6?style=for-the-badge)
 
 ![home](my_mind.png)
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 | Category       | Tools & Languages | Badges |
 |----------------|------------------|--------|
@@ -22,7 +21,7 @@ I enjoy combining solid engineering with **clean, intuitive interfaces**.
 
 ---
 
-### 🤝 Connect with me
+###  Connect with me
 
 <p align="left">
 <a href="mailto:phamtusocialnetwork5824@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
