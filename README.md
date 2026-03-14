@@ -1,9 +1,5 @@
 # Hi there, I'm Tú — you can call me Entering 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Helvetica&pause=500&color=36BCF7&width=435&lines=Build+things+that+matter;Let+ideas+lead+the+way." alt="Typing SVG" />
-</p>
-
 ### 💫 About Me
 
 I’m a developer interested in **AI/ML**, **system optimization**, and building **practical products for real users**.
@@ -23,15 +19,6 @@ I enjoy combining solid engineering with **clean, intuitive interfaces**.
 |----------------|------------------|--------|
 | **Languages**  | Python, JavaScript, TypeScript, C#, Java | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |
 | **Frontend**   | React, Vue.js | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) |  
-
----
-
-### 🧠 Interests
-
-* 🤖 AI / Machine Learning
-* ⚙️ System Optimization
-* 🎨 UI inspiration from creative work
-* 🎮 Games & complex systems
 
 ---
 
