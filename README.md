@@ -14,35 +14,17 @@ Developer focused on **AI/ML**, **system optimization**, and **practical product
 
 ###  Tech Stack
 
-| Technology | Badge                                                                                    |
-| ---------- | ---------------------------------------------------------------------------------------- |
-| Python     | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)       |
-| FastAPI    | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)    |
-| Uvicorn    | ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?logo=uvicorn\&logoColor=white)    |
-| Pydantic   | ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic\&logoColor=white) |
-| Vue 3        | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js\&logoColor=white)                |
-| React        | ![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)               |
-| Vite         | ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white)                   |
-| TypeScript   | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white) |
-| Tailwind CSS | ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss\&logoColor=white) |
-| Kotlin     | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin\&logoColor=white)    |
-| Android    | ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android\&logoColor=white) |
-| Gradle     | ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle\&logoColor=white)    |
-| PyTorch      | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white)              |
-| TensorFlow   | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)     |
-| scikit-learn | ![sklearn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn\&logoColor=white)   |
-| OpenCV       | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv\&logoColor=white)                 |
-| XGBoost      | ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?logo=xgboost\&logoColor=white)              |
-| Transformers | ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface\&logoColor=black) |
-| Pandas     | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)          |
-| Polars     | ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars\&logoColor=white)          |
-| DuckDB     | ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb\&logoColor=black)          |
-| Streamlit  | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit\&logoColor=white) |
-| Plotly     | ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly\&logoColor=white)          |
-| Git        | ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)          |
-| Docker     | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white) |
-| ESLint     | ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint\&logoColor=white) |
-| pytest     | ![pytest](https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest\&logoColor=white) |
+| Loại           | Tech (Badge)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Backend        | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white) ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?logo=uvicorn\&logoColor=white) ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?logo=pydantic\&logoColor=white)                                                                                                                                                                                                                |
+| Frontend       | ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js\&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite\&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss\&logoColor=white)                                                                                                                            |
+| Mobile         | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin\&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android\&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle\&logoColor=white)                                                                                                                                                                                                                                                                                                            |
+| ML / AI        | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch\&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn\&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv\&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-EB5E28?logo=xgboost\&logoColor=white) ![Transformers](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface\&logoColor=black) |
+| Data           | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-CD792C?logo=polars\&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb\&logoColor=black)                                                                                                                                                                                                                                                                                                               |
+| Data Viz / App | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit\&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                         |
+| DevOps / Tools | ![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?logo=eslint\&logoColor=white)                                                                                                                                                                                                                                                                                                                        |
+| Testing        | ![pytest](https://img.shields.io/badge/PyTest-0A9EDC?logo=pytest\&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+
 
 
 ---
