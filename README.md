@@ -1,9 +1,9 @@
 # Hi there, I'm Tú — you can call me Entering 👋
+entering5824.onrender.com
 
 ### 💫 About Me
 
 Developer focused on **AI/ML**, **system optimization**, and **practical products**.
-entering5824.onrender.com
 ![Born](https://img.shields.io/badge/Born-2004-3b82f6?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Learning-Project--Driven-22c55e?style=for-the-badge)
 ![Goal](https://img.shields.io/badge/Goal-AI%20Companion%20System-8b5cf6?style=for-the-badge)
