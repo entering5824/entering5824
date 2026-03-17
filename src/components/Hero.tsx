@@ -2,7 +2,7 @@ import ShinyText from './ShinyText';
 
 export function Hero() {
   return (
-    <header className="hero">
+    <header className="hero snap-section" aria-label="Hero">
       <h1 className="hero__name">
         <ShinyText
           text="PHẠM NGUYỄN MINH TÚ"
@@ -17,8 +17,8 @@ export function Hero() {
           disabled={false}
         />
       </h1>
-      <p className="hero__role">AI Application Developer — NLP, Recommendation &amp; Automation</p>
-      <p className="hero__tagline">"Building practical AI systems that work in real environments."</p>
+      <p className="hero__role">AI / ML Engineer (Applied AI, NLP, AI Systems)</p>
+      <p className="hero__tagline">"Building practical AI systems that solve real-world problems."</p>
     </header>
   );
 }

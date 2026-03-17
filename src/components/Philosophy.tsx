@@ -1,15 +1,13 @@
 export function Philosophy() {
   return (
-    <section className="section" aria-labelledby="philosophy-heading">
+    <section className="section snap-section" aria-labelledby="philosophy-heading">
       <h2 id="philosophy-heading" className="section__title">Philosophy</h2>
       <div className="section__content">
         <p>
-          Tôi tin rằng chất lượng có thể đo lường được.
-          Và cải tiến là một quá trình liên tục.
+          I believe engineering quality can be measured and improved continuously.
         </p>
         <p>
-          Tôi không ngại bắt đầu lại nếu hướng đi sai.
-          Tôi ưu tiên tạo ra giá trị thực tế hơn là theo đuổi sự hoàn hảo mù quáng.
+          I prioritize practical value and iterative improvement over chasing perfection.
         </p>
       </div>
     </section>

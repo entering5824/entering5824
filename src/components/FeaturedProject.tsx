@@ -1,25 +1,24 @@
 export function FeaturedProject() {
   return (
-    <section className="section" aria-labelledby="featured-heading">
+    <section className="section snap-section" aria-labelledby="featured-heading">
       <h2 id="featured-heading" className="section__title">Featured Project</h2>
       <div className="section__content">
         <h3 className="card__title">Vietnamese Speech-to-Text System</h3>
         <p>
-          Mô hình sử dụng Whisper do phù hợp với tài nguyên hạn chế và dễ triển khai.
-          Các vấn đề kỹ thuật đã xử lý:
+          Built with Whisper for a strong accuracy-to-cost tradeoff and practical deployment on limited resources.
+          Key engineering challenges I handled:
         </p>
         <ul className="card__list">
-          <li>Nhận diện tiếng lóng genz</li>
-          <li>Sai lệch khi tách câu</li>
-          <li>Giới hạn cấu hình máy</li>
-          <li>Tối ưu để deploy miễn phí</li>
+          <li>Robust handling for slang and noisy input</li>
+          <li>Sentence segmentation and post-processing to reduce transcription drift</li>
+          <li>Working within constrained compute environments</li>
+          <li>Optimization for free-tier friendly deployment</li>
         </ul>
         <p>
-          Dự án thực hiện theo nhóm, nhưng phần lớn logic xử lý và triển khai do tôi đảm nhiệm.
+          This was a team project, and I owned most of the processing logic and deployment work.
         </p>
         <p>
-          Tôi không coi đây là dự án hoàn hảo.
-          Tôi coi nó là minh chứng rằng tôi có thể đưa một hệ thống từ ý tưởng đến môi trường sử dụng thực tế.
+          This project demonstrates my ability to take an AI system from idea to a working application.
         </p>
       </div>
     </section>
