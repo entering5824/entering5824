@@ -22,16 +22,9 @@ I’m an Artificial Intelligence student interested in applied machine learning 
 - **NLP and speech:** transcription workflows and practical handling of recorded speech.
 - **Computer vision:** image preprocessing, feature extraction, dimensionality reduction, and classification.
 - **Product engineering:** APIs, interfaces, persistence, and deployment paths around data and models.
-```
 
 ## Contact
 
 - Email: [phamtusocialnetwork5824@gmail.com](mailto:phamtusocialnetwork5824@gmail.com)
 - GitHub: [github.com/entering5824](https://github.com/entering5824)
 - LinkedIn: [linkedin.com/in/entering5824](https://linkedin.com/in/entering5824)
-
-### Portfolio navigation
-
-The desktop layout uses one viewport (from 1000px wide and 560px high). Overview, Projects, About, and Contact switch content through URL hashes rather than scrolling. Select any of the seven project rows to open its details; project URLs support refresh and browser Back/Forward. Smaller screens and enlarged browser zoom use a readable scrolling layout.
-
-The palette uses cool white, charcoal, and forest green. Project content is maintained in `src/projects.ts`, presentation components in `src/components/Portfolio.tsx`, and shared styling in `src/index.css`.
