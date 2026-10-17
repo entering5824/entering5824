@@ -22,26 +22,6 @@ I’m an Artificial Intelligence student interested in applied machine learning 
 - **NLP and speech:** transcription workflows and practical handling of recorded speech.
 - **Computer vision:** image preprocessing, feature extraction, dimensionality reduction, and classification.
 - **Product engineering:** APIs, interfaces, persistence, and deployment paths around data and models.
-
-## This portfolio site
-
-Built with React, TypeScript, and Vite. The site highlights selected projects and the capabilities they demonstrate.
-
-### Run locally
-
-Requires Node.js and npm.
-
-```bash
-npm install
-npm run dev
-```
-
-### Available commands
-
-```bash
-npm run build   # Type-check and create the production build
-npm run lint    # Run ESLint
-npm run preview # Preview the production build
 ```
 
 ## Contact
